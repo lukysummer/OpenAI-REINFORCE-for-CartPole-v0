@@ -42,4 +42,5 @@ It was modified to ***update weights EACH EPISODE***, instead of each timestep o
 
 ## Sources
 * [Barto & Sutton's RL textbook](https://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf)
+* [Chris Yoon's MEDIUM post](https://medium.com/@thechrisyoon/deriving-policy-gradients-and-implementing-reinforce-f887949bd63)
 * [Udacity's Deep Reinforcement Learning Nanodegree](https://classroom.udacity.com/nanodegrees/nd893/dashboard/overview)
